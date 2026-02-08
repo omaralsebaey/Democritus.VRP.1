@@ -12,3 +12,5 @@ $$
 
 Current Ratio: $\text{5.31}$   
 Current Ratio (without slack): $\text{1.50}$
+
+## Project paused to focus on starting the Quantum Optimization team at AASTMT
